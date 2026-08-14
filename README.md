@@ -39,7 +39,7 @@ The authentication process consists of username and password verification, email
 ### Setup
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MahitaChoudaryBorra/WS-2320030057-SecureAuthX.git
 cd SecureAuthX
 ```
 
