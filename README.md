@@ -40,7 +40,7 @@ The authentication process consists of username and password verification, email
 
 ```bash
 git clone https://github.com/MahitaChoudaryBorra/WS-2320030057-SecureAuthX.git
-cd SecureAuthX
+cd WS-2320030057-SecureAuthX
 ```
 
 Configure the MySQL database and email/SMTP credentials in the Spring Boot application configuration.
