@@ -4,9 +4,9 @@
 
 | Name      | ID         |
 | --------- | ---------- |
-| B. Ananya | 2320030071 |
-| B. Mahita | 2320030057 |
-| K. Bindu  | 2320030386 |
+| Mahita Choudary Borra | 2320030057 |
+| Bhanuri Ananya | 2320030071 |
+| Ketha Bindu Madhavi  | 2320030386 |
 
 **Supervisor:** Dr. Archana Kalidindi
 
@@ -20,7 +20,7 @@ The authentication process consists of username and password verification, email
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Java, Spring Boot
-* **Database:** MySQL
+* **Database:** posgreSQL
 * **Face Recognition:** OpenCV
 * **Authentication:** Email OTP (JavaMail API / SMTP)
 * **Development Tools:** IntelliJ IDEA / Eclipse, Maven
