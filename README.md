@@ -4,9 +4,9 @@
 
 | Name      | ID         |
 | --------- | ---------- |
-| Mahita Choudary Borra | 2320030057 |
-| Bhanuri Ananya | 2320030071 |
-| Ketha Bindu Madhavi  | 2320030386 |
+| B. Ananya | 2320030071 |
+| B. Mahita | 2320030057 |
+| K. Bindu  | 2320030386 |
 
 **Supervisor:** Dr. Archana Kalidindi
 
