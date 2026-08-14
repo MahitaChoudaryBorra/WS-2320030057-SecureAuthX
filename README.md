@@ -20,7 +20,7 @@ The authentication process consists of username and password verification, email
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Java, Spring Boot
-* **Database:** posgreSQL
+* **Database:** PostgreSQL
 * **Face Recognition:** OpenCV
 * **Authentication:** Email OTP (JavaMail API / SMTP)
 * **Development Tools:** IntelliJ IDEA / Eclipse, Maven
